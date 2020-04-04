@@ -33,3 +33,4 @@ D:\Projects\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.Views.pdb
 D:\Projects\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.dll
 D:\Projects\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.pdb
 D:\Projects\MvcMovie\obj\Debug\netcoreapp3.1\MvcMovie.csproj.CopyComplete
+D:\Projects\MvcMovie\obj\Debug\netcoreapp3.1\Razor\Views\HelloWorld\Index.cshtml.g.cs
